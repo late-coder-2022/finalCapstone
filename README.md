@@ -33,6 +33,11 @@ $ wget https://raw.githubusercontent.com/ekalinin/github-markdown-toc/master/gh-
 $ chmod a+x gh-md-toc
 ```
 
+Windows (manual installation)
+```cmd
+$ curl -o README.md https://raw.githubusercontent.com/late-coder-2022/finalCapstone/main/README.md
+```
+
 MacOS (manual installation)
 ```bash
 $ curl https://raw.githubusercontent.com/ekalinin/github-markdown-toc/master/gh-md-toc -o gh-md-toc
