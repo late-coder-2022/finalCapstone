@@ -34,6 +34,9 @@ $ chmod a+x gh-md-toc
 ```
 
 Windows (manual installation)
+
+Open commmand prompt and enter the following command.
+
 ```cmd
 curl -o book.py https://raw.githubusercontent.com/late-coder-2022/E-Bookstore/master/book.py
 ```
@@ -52,8 +55,11 @@ $ basher install ekalinin/github-markdown-toc
 
 Usage
 =====
-![Screenshot](usage.jpg)
-![Screenshot](usage2.jpg)
+Open the Window Explorer, go to the program download directory. Right click the program file and select "Open with Pychram". 
+![alt text](usage.jpg)
+
+In Pychram, click the green arrow button to run the program.
+![alt text](usage2.jpg)
 
 
 
