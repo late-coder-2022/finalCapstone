@@ -35,7 +35,7 @@ $ chmod a+x gh-md-toc
 
 Windows (manual installation)
 ```cmd
-$ curl -o README.md https://raw.githubusercontent.com/late-coder-2022/finalCapstone/main/README.md
+$ curl -o book.py https://raw.githubusercontent.com/late-coder-2022/E-Bookstore/master/book.py
 ```
 
 MacOS (manual installation)
