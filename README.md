@@ -52,7 +52,7 @@ $ basher install ekalinin/github-markdown-toc
 
 Usage
 =====
-
+![Screenshot](usage.jpeg)
 
 STDIN
 -----
