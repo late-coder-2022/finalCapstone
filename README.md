@@ -1,8 +1,8 @@
 # Project Name: ebookstore
 
-### Project Description: This project creates a SQLite3 database and provides functions for the book clerks to add, update, delete and search books
+## Project Description: This project creates a SQLite3 database and provides functions for the book clerks to add, update, delete and search books
 
-# Table of Contents
+## Table of Contents
 1. [Installation](#installation)
 2. [Usage](#usage)
     * [Enter book](#enter-book)
@@ -11,7 +11,7 @@
     * [Search book](#search-book)
 3. [Credits](#credits)
 
-## Installation
+### Installation
 Windows (manual installation)
 
 Open commmand prompt and enter the following command.
@@ -20,7 +20,7 @@ Open commmand prompt and enter the following command.
 curl -o book.py https://raw.githubusercontent.com/late-coder-2022/E-Bookstore/master/book.py
 ```
 
-## Usage
+### Usage
 Enter the program and the main menu will be displayed!
 
 ![Main](Screenshot_Main.jpg)
@@ -101,6 +101,6 @@ Select one of the options to search books
 
 ![Search Book 2](Screenshot_Search_2.jpg)
 
-## Credits
+### Credits
 
 A special thanks to HyperionDev mentor and support staff giving us the bootcamp student so much insight and inspiration. 
