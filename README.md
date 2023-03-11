@@ -8,7 +8,7 @@ Table of contents
 <!--ts-->
    * [Installation](#installation)
    * [Usage](#usage)
-      * [STDIN](#stdin)
+      * [Enter book](#enter-book)
       * [Local files](#local-files)
       * [Remote files](#remote-files)
       * [Multiple files](#multiple-files)
@@ -38,17 +38,30 @@ curl -o book.py https://raw.githubusercontent.com/late-coder-2022/E-Bookstore/ma
 
 Usage
 =====
-Open the Window Explorer, go to the program download directory. Right click the program file and select "Open with Pychram". 
-![alt text](usage.jpg)
 
-In Pychram, click the green arrow button to run the program.
-![alt text](usage2.jpg)
+Enter the program and the main menu will be displayed!
+
+![Main](Screenshot_Main.jpg)
+
+Enter 1 to add a book
+
+![Add_Book_1](Screenshot_Add_1.jpg)
+
+Enter the book name
+
+![Add_Book_2](Screenshot_Add_2.jpg)
+
+Enter the book author
+
+![Add_Book_3](Screenshot_Add_3.jpg)
+
+Enter the book quantity
+
+![Add_Book_4](Screenshot_Add_4.jpg)
 
 
-
-
-STDIN
------
+Entrer book
+-----------
 
 Here's an example of TOC creating for markdown from STDIN:
 
