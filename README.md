@@ -103,4 +103,4 @@ Select one of the options to search books
 
 ### Credits
 
-A special thanks to HyperionDev mentor and support staff giving us the bootcamp student so much insight and inspiration. 
+A special thanks to the instructors, mentor and support staff from HyperionDev giving us the bootcamp student so much insight and inspiration. 
