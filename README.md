@@ -1,6 +1,6 @@
 # Project Name: ebookstore
 
-### This project creates a SQLite3 database and provides functions for the book clerks to add, update, delete and search books
+### Project Description: This project creates a SQLite3 database and provides functions for the book clerks to add, update, delete and search books
 
 Table of contents
 =================
@@ -27,12 +27,6 @@ Table of contents
 Installation
 ============
 
-Linux (manual installation)
-```bash
-$ wget https://raw.githubusercontent.com/ekalinin/github-markdown-toc/master/gh-md-toc
-$ chmod a+x gh-md-toc
-```
-
 Windows (manual installation)
 
 Open commmand prompt and enter the following command.
@@ -41,17 +35,6 @@ Open commmand prompt and enter the following command.
 curl -o book.py https://raw.githubusercontent.com/late-coder-2022/E-Bookstore/master/book.py
 ```
 
-MacOS (manual installation)
-```bash
-$ curl https://raw.githubusercontent.com/ekalinin/github-markdown-toc/master/gh-md-toc -o gh-md-toc
-$ chmod a+x gh-md-toc
-```
-
-Linux or MacOS (using [Basher](https://github.com/basherpm/basher))
-```bash
-$ basher install ekalinin/github-markdown-toc
-# `gh-md-toc` will automatically be available in the PATH
-```
 
 Usage
 =====
