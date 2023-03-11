@@ -87,7 +87,7 @@ Confirm delete
 
 ![Delete_Book_3](Screenshot_Delete_3.jpg)
 
-Delete complete
+Book deleted
 
 ![Delete_Book_4](Screenshot_Delete_4.jpg)
 
