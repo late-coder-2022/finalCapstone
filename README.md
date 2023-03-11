@@ -93,6 +93,14 @@ Book deleted
 
 #### Search book
 
+Enter 4 to search books
+
+![Search Book 1](Screenshot_Search_1.jpg)
+
+Select one of the options to search books
+
+![Search Book 2](Screenshot_Search_2.jpg)
+
 
 ## Credits
 
