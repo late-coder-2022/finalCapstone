@@ -17,7 +17,7 @@ Windows (manual installation)
 Open commmand prompt and enter the following command.
 
 ```cmd
-curl -o book.py https://raw.githubusercontent.com/late-coder-2022/E-Bookstore/master/book.py
+curl -o book.py https://raw.githubusercontent.com/late-coder-2022/finalCapstone/main/book.py
 ```
 
 ### Usage
