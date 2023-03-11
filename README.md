@@ -101,7 +101,6 @@ Select one of the options to search books
 
 ![Search Book 2](Screenshot_Search_2.jpg)
 
-
 ## Credits
 
-
+A special thanks to HyperionDev mentor and support staff giving us the bootcamp student so much insight and inspiration. 
