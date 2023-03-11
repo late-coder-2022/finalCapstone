@@ -47,12 +47,49 @@ Enter the book quantity
 
 Enter 2 to update a book
 
+![Update_Book_1](Screenshot_Update_1.jpg)
 
 Enter the book id
 
+![Update_Book_2](Screenshot_Update_2.jpg)
+
+Update the book name if necessary
+
+![Update_Book_3](Screenshot_Update_3.jpg)
+
+Update the book author if necessary
+
+![Update_Book_4](Screenshot_Update_4.jpg)
+
+Updatre the book quatity if necessary
+
+![Update_Book_5](Screenshot_Update_5.jpg)
+
+Confirm to update
+
+![Update_Book_6](Screenshot_Update_6.jpg)
+
+Book updated
+
+![Update_Book_7](Screenshot_Update_7.jpg)
 
 #### Delete book
 
+Enter 3 to delete a book
+
+![Delete_Book_1](Screenshot_Delete_1.jpg)
+
+Enter the book id
+
+![Delete_Book_2](Screenshot_Delete_2.jpg)
+
+Confirm delete
+
+![Delete_Book_3](Screenshot_Delete_3.jpg)
+
+Delete complete
+
+![Delete_Book_4](Screenshot_Delete_4.jpg)
 
 #### Search book
 
