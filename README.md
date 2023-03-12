@@ -21,7 +21,7 @@ curl -o book.py https://raw.githubusercontent.com/late-coder-2022/finalCapstone/
 ```
 
 ### Usage
-Enter the program and the main menu will be displayed!
+Open the python program 'book.py' with your favourite IDE. The main menu will then be displayed!
 
 ![Main](Screenshot_Main.jpg)
 
